@@ -1,5 +1,9 @@
 # SRTPluginProviderSH1
 
+![Release](https://img.shields.io/github/v/release/ARESaurio/SRTPluginProviderSH1?label=current%20release&style=for-the-badge)
+![Date](https://img.shields.io/github/release-date/ARESaurio/SRTPluginProviderSH1?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/ARESaurio/SRTPluginProviderSH1/total?color=%23007EC6&style=for-the-badge)
+
 SRT Plugin Provider for **Silent Hill 1** (SLUS-00707 / NTSC-U) running on **DuckStation** (x64).
 
 ## Requirements
